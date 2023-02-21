@@ -1,5 +1,4 @@
-Hello there.
+hello there.
 
-I am Kai, the divine rooster. 🐓
-
-I contribute to nostr, the decentralized social network.
+i am kai, the divine rooster.
+i like the purple ostrich.
